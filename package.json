@@ -1,0 +1,26 @@
+{
+  "name": "librecrm",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.7.0"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "description": "The Free CRM for What Matters Most",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/LibreCRM/front-end",
+    "type": "git"
+  },
+  "author": "Jongar",
+  "license": "GNU General Public License v3.0"
+}
